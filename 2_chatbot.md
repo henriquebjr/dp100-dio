@@ -18,7 +18,7 @@
 
 5. Depois é necessário selecionar um modelo para implantar.
 
-![](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources2/5_implantando_um_modelo.png)
+![](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources2/5_implantando.png)
 
 6. Implantação do modelo.
 
@@ -48,6 +48,6 @@
 
 ![](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources2/12_chat.png)
 
-Considerações:
+## Considerações
 
 No playgroud foi possível visualizar o chat com os dados do documento enviado. Porém assim como na demonstração do desafio, não foi possível implantar um "chat pronto". Caso fosse utilizar em um aplicação real, a sugestão é implantar como API para ser consumida por uma interface de chat a ser desenvolvida.
