@@ -12,7 +12,7 @@
 
 ![](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources/4_ml_automatizado.png)
 
-4. É necessário fazer o upload dos dados de entrada (![](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources/sorveteria.csv)) e informar como será utilizado. Optei por dividir os dados para utilizar 10% para validação.
+4. É necessário fazer o upload dos dados de entrada ([sorveteria.csv](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources/sorveteria.csv)) e informar como será utilizado. Optei por dividir os dados para utilizar 10% para validação.
 
 ![](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources/5_ml_automatizado_validacao.png)
 
