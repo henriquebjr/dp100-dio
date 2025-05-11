@@ -30,7 +30,7 @@
 
 8. No modelo de embeddings se adiciona então os dados a serem vetorizados.
 
-![](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources2/8_adiciona_dados.png)
+![](https://raw.githubusercontent.com/henriquebjr/dp100-dio/main/resources2/8_adiciona.png)
 
 9. A criação do serviço de pesquisa é necessária para possibilitar a pesquisa sobre os dados vetorizados
 
